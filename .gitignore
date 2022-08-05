@@ -161,3 +161,6 @@ cython_debug/
 
 #elm
 elm-stuff/
+
+# node
+node_modules/

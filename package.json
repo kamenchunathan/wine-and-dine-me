@@ -1,0 +1,30 @@
+{
+  "name": "wine-and-dine-me",
+  "version": "1.0.0",
+  "description": "A project to display times at which people have their evening meal across Kenya",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "elm-app test",
+    "build": "elm-app build",
+    "start": "elm-app start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamenchunathan/wine-and-dine-me.git"
+  },
+  "keywords": [
+    "Map",
+    "Api"
+  ],
+  "author": "Nathan Kamenchu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamenchunathan/wine-and-dine-me/issues"
+  },
+  "homepage": "https://github.com/kamenchunathan/wine-and-dine-me#readme",
+  "devDependencies": {
+    "create-elm-app": "^5.22.0"
+  }
+}
